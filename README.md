@@ -1,4 +1,4 @@
 # BigData [Lê Vũ Hoàng Khanh Profile lvhkhanh @ Cognitive Class](https://courses.cognitiveclass.ai/certificates/9bb2425c96d14772a567deda3272fe05)
 
 ## Paths
-### https://cognitiveclass.ai/learn/big-data [test 1h](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0101EN+2016_T2/courseware/02089458e25d4e7d9477c193159c8e9b/7b442fc870ce40efa80cd0eff00bbe0f/?child=first)
+### https://cognitiveclass.ai/learn/big-data [Cert](https://courses.cognitiveclass.ai/certificates/9bb2425c96d14772a567deda3272fe05)
